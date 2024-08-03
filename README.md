@@ -1,16 +1,15 @@
-# riad_live_tv
+# Riad Live TV 
 
-A new Flutter project.
+<p>Riad Live TV is a Live Streaming Flutter Application</p>
+<p>There has 5 categories channel 
+  <li>Islamic Channel</li>
+  <li>Sports Channel</li>
+  <li>Entertainment Channel</li>
+  <li>News Channel</li>
+  <li>Others Channel</li></p>
+  <p>Almost 12+ countries 20 Live Channel active here</p>
+  <p>also has live cricket feature.here you can see live cricket score with free</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  #Output:
+  https://www.youtube.com/watch?v=hDMNf_f_LeE
+  
